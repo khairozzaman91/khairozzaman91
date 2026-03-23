@@ -1,14 +1,14 @@
 # Hi there, I'm Khairozzaman 👋  
-🚀 Flutter Developer | Backend Developer | Programmer  
+🚀 Backend Engineer | Tech Explorer
 📍 Bangladesh  
 
 ---
 https://khairozzaman91.github.io/khairozzaman_Portfolio/#contact
 
 ## 👨‍💻 About Me  
-I’m a passionate **Flutter & Backend Developer** who loves building fast, clean, and user-friendly applications.  
-I enjoy working on mobile apps, backend APIs, and exploring modern technologies.  
-Learning new skills and experimenting with different languages keeps me motivated every day!
+I’m passionate about building innovative software that’s fast, efficient, and intuitive.
+I specialize in mobile apps (Flutter), web interfaces, and backend systems, bridging the gap between elegant design and robust functionality.
+I enjoy solving complex problems, experimenting with new tech stacks, and turning bold ideas into real-world applications.
 
 ---
 
