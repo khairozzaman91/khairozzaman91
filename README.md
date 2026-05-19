@@ -1,102 +1,112 @@
 # Hi there, I'm Khairozzaman 👋  
-🚀 Backend Engineer | Tech Explorer
+💻 Software Developer
 📍 Bangladesh  
 
 ---
-https://khairozzaman91.github.io/khairozzaman_Portfolio/#contact
 
 ## 👨‍💻 About Me  
-I’m passionate about building innovative software that’s fast, efficient, and intuitive.
-I specialize in mobile apps (Flutter), web interfaces, and backend systems, bridging the gap between elegant design and robust functionality.
-I enjoy solving complex problems, experimenting with new tech stacks, and turning bold ideas into real-world applications.
+I am a Computer Science graduate passionate about building clean and efficient software solutions.  
+I focus on web development, mobile applications, and system design using modern technologies.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack  
 
-### **Mobile Development**
-- Flutter (Dart)
-
-### **Frontend / Web**
-- HTML, CSS, JavaScript
-
-### **Backend & Programming Languages**
-- Go (Golang)  
-- Java  
+### 💻 Programming Languages
+- JavaScript  
+- TypeScript (Basic)  
+- Python  
 - C++  
-- C  
+- Java  
+- Dart  
 
-### **Databases**
+---
+
+### 🌐 Frontend Development
+- React.js  
+- Next.js (Basic)  
+- Flutter  
+- HTML5  
+- CSS3  
+- Tailwind CSS  
+
+---
+
+### ⚙️ Backend Concepts
+- REST APIs  
+- Authentication  
+- Middleware  
+- Clean Architecture  
+
+---
+
+### 🗄 Databases
 - MySQL  
+- PostgreSQL  
 - SQLite  
-- Firebase (optional)
 
-### **Tools**
+---
+
+### 🤖 AI / Computer Vision (Basic)
+- Computer Vision  
+- Object Detection (YOLOv3)  
+- Image Processing  
+
+---
+
+### 🧰 Tools
 - Git & GitHub  
-- Android Studio  
-- VS Code  
+- Docker (Basic)  
+- Linux Basics  
 - Postman  
+- VS Code  
+- Figma  
 
 ---
 
-## 📚 What I Do
-- Build cross-platform mobile apps using **Flutter**  
-- Create backend APIs using **Go** and **Java**  
-- Work with databases and authentication  
-- Learn advanced programming concepts (DSA, OOP, problem-solving)  
-- Develop UI with clean, modern design principles  
+## 🚀 Projects  
+
+### 🔹 SupplyTrack B2B Inventory System  
+https://github.com/khairozzaman91/Supply-Chain-Tracker  
 
 ---
 
-## 🚀 Featured Projects
-
-### **To-Do Application**
-A simple yet powerful task manager app.  
-**Tech:** Flutter, SQLite
+### 🔹 NexusBank Dashboard  
+https://github.com/khairozzaman91/NexusBank-Dashboard  
 
 ---
 
-### **Bank Project (Java)**
-A console-based banking system showcasing strong OOP principles, validation, and core logic.  
-**Tech:** Java
+### 🔹 StepFlow Multi-Step Form Engine  
+https://github.com/khairozzaman91/StepFlow  
 
 ---
 
-### **CLI Notes API**
-A powerful command-line notes management system with full CRUD support.  
-**Tech:** Go (Golang)
+### 🔹 Thesis & Internship Management System  
+https://github.com/khairozzaman91/thesisprojectmanagement  
 
 ---
 
-### **Final Year Project – Traffic Management System**
-A smart traffic monitoring and management system built using **Python** and **YOLOv3** for real-time vehicle detection and traffic analysis.  
+### 🔹 FuelGuard System  
+https://github.com/khairozzaman91/FuelGuard  
 
 ---
 
-### **Food Ordering System – Java Project**
-A simple and user-friendly **Food Ordering System** developed entirely using **Java**.  
-Allows users to manage food orders efficiently with basic functionality and an easy-to-use interface.  
-
-
-**Tech:** Java  
+### 🔹 AI Traffic Monitoring System  
+https://github.com/khairozzaman91/aiTrafficproject  
 
 ---
 
-## 💡 Interests
-- Mobile development  
-- Backend engineering  
-- Frontend development  
-- API design  
-- Clean architecture  
-- UI/UX  
-- Learning new programming languages  
+## 🎯 Problem Solving
+- HackerRank: https://hackerrank.com/khairozzaman91  
+- CodeChef: https://codechef.com/users/error91  
+- Codeforces: https://codeforces.com/profile/yourprofile  
 
 ---
 
-## 📫 Connect With Me
-- **LinkedIn:** [md-khairozzaman-187048298](https://www.linkedin.com/in/md-khairozzaman-187048298/)  
-- **GitHub:** [khairozzaman91](https://github.com/khairozzaman91)  
+## 📫 Connect
+- LinkedIn: https://linkedin.com/in/md-khairozzaman-187048298  
+- GitHub: https://github.com/khairozzaman91  
 
 ---
 
-Thanks for visiting! 😊  
+⭐ Thanks for visiting!
