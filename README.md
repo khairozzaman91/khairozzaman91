@@ -7,84 +7,84 @@
 ---
 
 ## 👨‍💻 About Me
-I am a Computer Science graduate passionate about building clean, efficient, and scalable software solutions[cite: 1]. My primary focus is on **Backend Development** and **Cross-Platform Mobile Applications** using modern technologies[cite: 1]. I love tackling complex technical challenges, optimization, and continuous learning[cite: 1].
+I am a Computer Science graduate passionate about building clean, efficient, and scalable software solutions. My primary focus is on **Backend Development** and **Cross-Platform Mobile Applications** using modern technologies. I love tackling complex technical challenges, optimization, and continuous learning.
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 💻 Programming Languages
-- **Go (Golang)** — *Main Backend Focus*[cite: 1]
-- JavaScript / TypeScript (Basic)[cite: 1]
-- Dart[cite: 1]
-- C++ / Java / Python[cite: 1]
+- **Go (Golang)** — *Main Backend Focus*
+- JavaScript / TypeScript (Basic)
+- Dart
+- C++ / Java / Python
 
 ### 🌐 Frontend & Mobile Development
-- Flutter[cite: 1]
-- React.js / Next.js (Basic)[cite: 1]
-- Tailwind CSS / HTML5 / CSS3[cite: 1]
+- Flutter
+- React.js / Next.js (Basic)
+- Tailwind CSS / HTML5 / CSS3
 
 ### ⚙️ Backend & Architecture
-- REST APIs / Middleware / Authentication (JWT & HMAC)[cite: 1]
-- Clean Architecture / System Design[cite: 1]
+- REST APIs / Middleware / Authentication (JWT & HMAC)
+- Clean Architecture / System Design
 
 ### 🗄 Databases
-- PostgreSQL[cite: 1]
-- Supabase[cite: 1]
-- MySQL / SQLite[cite: 1]
+- PostgreSQL
+- Supabase
+- MySQL / SQLite
 
 ### 🤖 AI & Computer Vision
-- Computer Vision (OpenCV)[cite: 1]
-- Object Detection (YOLOv3)[cite: 1]
+- Computer Vision (OpenCV)
+- Object Detection (YOLOv3)
 
 ### 🧰 Tools
-- Git & GitHub[cite: 1]
-- Linux Basics / Bash[cite: 1]
-- Postman / VS Code / Figma[cite: 1]
+- Git & GitHub
+- Linux Basics / Bash
+- Postman / VS Code / Figma
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔹 Thesis & Internship Management System
-🔗 [GitHub Repository](https://github.com/khairozzaman91/thesisprojectmanagement)[cite: 1]
+🔗 [GitHub Repository](https://github.com/khairozzaman91/thesisprojectmanagement)
 
-A complete academic management platform handles student applications, supervisor approvals, and project lifecycle tracking[cite: 1].
-- **Technologies:** Flutter, Dart, Supabase, PostgreSQL[cite: 1]
-- **Key Features:** Role-based workflow system (Student, Supervisor, Admin, Research Cell)[cite: 1].
+A complete academic management platform handles student applications, supervisor approvals, and project lifecycle tracking.
+- **Technologies:** Flutter, Dart, Supabase, PostgreSQL
+- **Key Features:** Role-based workflow system (Student, Supervisor, Admin, Research Cell)
 
 ### 🔹 SupplyTrack B2B Inventory System
-🔗 [GitHub Repository](https://github.com/khairozzaman91/Supply-Chain-Tracker)[cite: 1]
+🔗 [GitHub Repository](https://github.com/khairozzaman91/Supply-Chain-Tracker)
 
-A web-based B2B inventory management system for product, vendor, and stock tracking[cite: 1].
-- **Technologies:** React.js, JavaScript, Tailwind CSS[cite: 1]
-- **Key Features:** Local storage data persistence, responsive UI, and authentication flow[cite: 1].
+A web-based B2B inventory management system for product, vendor, and stock tracking.
+- **Technologies:** React.js, JavaScript, Tailwind CSS
+- **Key Features:** Local storage data persistence, responsive UI, and authentication flow
 
 ### 🔹 NexusBank Fintech Dashboard
-🔗 [GitHub Repository](https://github.com/khairozzaman91/NexusBank-Dashboard)[cite: 1]
+🔗 [GitHub Repository](https://github.com/khairozzaman91/NexusBank-Dashboard)
 
-A modern financial dashboard for transaction visualization and user account data management[cite: 1].
-- **Technologies:** React.js, JavaScript, Recharts, Tailwind CSS[cite: 1]
-- **Key Features:** CRUD operations, interactive graphs, and reusable UI components[cite: 1].
+A modern financial dashboard for transaction visualization and user account data management.
+- **Technologies:** React.js, JavaScript, Recharts, Tailwind CSS
+- **Key Features:** CRUD operations, interactive graphs, and reusable UI components
 
 ### 🔹 FuelGuard System
-🔗 [GitHub Repository](https://github.com/khairozzaman91/FuelGuard)[cite: 1]
+🔗 [GitHub Repository](https://github.com/khairozzaman91/FuelGuard)
 
-A database-driven fuel tracking and management system for monitoring usage and records[cite: 1].
-- **Technologies:** Supabase, PostgreSQL[cite: 1]
-- **Key Features:** Structured data handling and backend workflow management[cite: 1].
+A database-driven fuel tracking and management system for monitoring usage and records.
+- **Technologies:** Supabase, PostgreSQL
+- **Key Features:** Structured data handling and backend workflow management
 
 ### 🔹 StepFlow Multi-Step Form Engine
-🔗 [GitHub Repository](https://github.com/khairozzaman91/StepFlow)[cite: 1]
+🔗 [GitHub Repository](https://github.com/khairozzaman91/StepFlow)
 
-A modular, reusable multi-step form system with built-in validation and progress tracking[cite: 1].
-- **Technologies:** React.js, JavaScript, Framer Motion, CSS[cite: 1]
+A modular, reusable multi-step form system with built-in validation and progress tracking.
+- **Technologies:** React.js, JavaScript, Framer Motion, CSS
 
 ### 🔹 AI-Based Traffic Monitoring System
-🔗 [GitHub Repository](https://github.com/khairozzaman91/aiTrafficproject)[cite: 1]
+🔗 [GitHub Repository](https://github.com/khairozzaman91/aiTrafficproject)
 
-A computer vision academic project for real-time vehicle detection and traffic flow analysis[cite: 1].
-- **Technologies:** Python, OpenCV, YOLOv3[cite: 1]
+A computer vision academic project for real-time vehicle detection and traffic flow analysis.
+- **Technologies:** Python, OpenCV, YOLOv3
 
 ---
 
@@ -96,8 +96,8 @@ A computer vision academic project for real-time vehicle detection and traffic f
 ---
 
 ## 📫 Connect With Me
-- 💼 **LinkedIn:** [linkedin.com/in/md-khairozzaman-187048298](https://linkedin.com/in/md-khairozzaman-187048298)[cite: 1]
-- 📧 **Email:** khairozzaman91@gmail.com[cite: 1]
+- 💼 **LinkedIn:** [linkedin.com/in/md-khairozzaman-187048298](https://linkedin.com/in/md-khairozzaman-187048298)
+- 📧 **Email:** khairozzaman91@gmail.com
 
 ---
 ⭐️ *Thanks for visiting my profile! Feel free to explore my repositories.*
