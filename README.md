@@ -1,143 +1,111 @@
-# Hi there, I'm Khairozzaman 👋  
-💻 Software Developer
-📍 Bangladesh  
+# Hi there, I'm Khairozzaman 👋
+💻 Software Developer | Backend & Mobile Enthusiast
+📍 Dhaka, Bangladesh
 
 ---
 
-## 👨‍💻 About Me  
-I am a Computer Science graduate passionate about building clean and efficient software solutions.  
-I focus on web development, mobile applications, and system design using modern technologies.
+## 👨‍💻 About Me
+I am a Computer Science graduate passionate about building clean, efficient, and scalable software solutions. My primary focus is on **Backend Development** and **Cross-Platform Mobile Applications** using modern technologies. I love tackling complex technical challenges, optimization, and continuous learning.
 
 ---
 
-## 🛠 Tech Stack  
+## 🛠 Tech Stack
 
 ### 💻 Programming Languages
-- JavaScript  
-- TypeScript (Basic)  
-- Python  
-- C++  
-- Java  
-- Dart  
+- **Go (Golang)** — *Main Backend Focus*
+- JavaScript / TypeScript (Basic)[cite: 1]
+- Dart[cite: 1]
+- C++ / Java / Python[cite: 1]
 
----
+### 🌐 Frontend & Mobile Development
+- Flutter[cite: 1]
+- React.js / Next.js (Basic)[cite: 1]
+- Tailwind CSS / HTML5 / CSS3[cite: 1]
 
-### 🌐 Frontend Development
-- React.js  
-- Next.js (Basic)  
-- Flutter  
-- HTML5  
-- CSS3  
-- Tailwind CSS  
-
----
-
-### ⚙️ Backend Concepts
-- REST APIs  
-- Authentication  
-- Middleware  
-- Clean Architecture  
-
----
+### ⚙️ Backend & Architecture
+- REST APIs / Middleware / Authentication (JWT & HMAC)[cite: 1]
+- Clean Architecture / System Design[cite: 1]
 
 ### 🗄 Databases
-- MySQL  
-- PostgreSQL  
-- SQLite  
+- PostgreSQL[cite: 1]
+- Supabase[cite: 1]
+- MySQL / SQLite[cite: 1]
 
----
-
-### 🤖 AI / Computer Vision (Basic)
-- Computer Vision  
-- Object Detection (YOLOv3)  
-- Image Processing  
-
----
+### 🤖 AI & Computer Vision
+- Computer Vision (OpenCV)[cite: 1]
+- Object Detection (YOLOv3)[cite: 1]
 
 ### 🧰 Tools
-- Git & GitHub  
-- Docker (Basic)  
-- Linux Basics  
-- Postman  
-- VS Code  
-- Figma  
+- Git & GitHub[cite: 1]
+- Linux Basics / Bash[cite: 1]
+- Postman / VS Code / Figma[cite: 1]
 
 ---
 
-## 🚀 Projects  
+## 🚀 Featured Projects
+
+### 🔹 Thesis & Internship Management System
+🔗 [GitHub Repository](https://github.com/khairozzaman91/thesisprojectmanagement)[cite: 1]
+
+A complete academic management platform handles student applications, supervisor approvals, and project lifecycle tracking[cite: 1].
+- **Technologies:** Flutter, Dart, Supabase, PostgreSQL[cite: 1]
+- **Key Features:** Role-based workflow system (Student, Supervisor, Admin, Research Cell)[cite: 1].
+
+### 🔹 SupplyTrack B2B Inventory System
+🔗 [GitHub Repository](https://github.com/khairozzaman91/Supply-Chain-Tracker)[cite: 1]
+
+A web-based B2B inventory management system for product, vendor, and stock tracking[cite: 1].
+- **Technologies:** React.js, JavaScript, Tailwind CSS[cite: 1]
+- **Key Features:** Local storage data persistence, responsive UI, and authentication flow[cite: 1].
+
+### 🔹 NexusBank Fintech Dashboard
+🔗 [GitHub Repository](https://github.com/khairozzaman91/NexusBank-Dashboard)[cite: 1]
+
+A modern financial dashboard for transaction visualization and user account data management[cite: 1].
+- **Technologies:** React.js, JavaScript, Recharts, Tailwind CSS[cite: 1]
+- **Key Features:** CRUD operations, interactive graphs, and reusable UI components[cite: 1].
+
+### 🔹 FuelGuard System
+🔗 [GitHub Repository](https://github.com/khairozzaman91/FuelGuard)[cite: 1]
+
+A database-driven fuel tracking and management system for monitoring usage and records[cite: 1].
+- **Technologies:** Supabase, PostgreSQL[cite: 1]
+- **Key Features:** Structured data handling and backend workflow management[cite: 1].
+
+### 🔹 StepFlow Multi-Step Form Engine
+🔗 [GitHub Repository](https://github.com/khairozzaman91/StepFlow)[cite: 1]
+
+A modular, reusable multi-step form system with built-in validation and progress tracking[cite: 1].
+- **Technologies:** React.js, JavaScript, Framer Motion, CSS[cite: 1]
+
+### 🔹 AI-Based Traffic Monitoring System
+🔗 [GitHub Repository](https://github.com/khairozzaman91/aiTrafficproject)[cite: 1]
+
+A computer vision academic project for real-time vehicle detection and traffic flow analysis[cite: 1].
+- **Technologies:** Python, OpenCV, YOLOv3[cite: 1]
 
 ---
 
-### 🔹 SupplyTrack B2B Inventory System  
-🔗 https://github.com/khairozzaman91/Supply-Chain-Tracker  
+## 🎯 Problem Solving & Badges
+I actively solve problems to strengthen my Data Structures & Algorithms (DSA) skills[cite: 1]:
 
-A web-based inventory management system for managing products, vendors, and stock tracking.  
-Built to handle structured data flow and responsive UI interactions.
-
-**Technologies:** React.js, JavaScript, HTML, CSS, Tailwind CSS  
-
----
-
-### 🔹 NexusBank Fintech Dashboard  
-🔗 https://github.com/khairozzaman91/NexusBank-Dashboard  
-
-A financial dashboard for transaction visualization and user data management.  
-Focused on clean UI design and reusable frontend components.
-
-**Technologies:** React.js, JavaScript, Recharts, CSS, Tailwind CSS  
+- 🚀 **LeetCode:** [leetcode.com/u/khairozzaman_error](https://leetcode.com/u/khairozzaman_error/)[cite: 1]
+- 🏆 **HackerRank:** [hackerrank.com/khairozzaman91](https://hackerrank.com/khairozzaman91) *(Go Certified)*[cite: 1]
+- 🎯 **CodeChef:** [codechef.com/users/error91](https://codechef.com/users/error91)[cite: 1]
+- 📊 **Codeforces:** [codeforces.com/profile/yourprofile](https://codeforces.com/profile/yourprofile)[cite: 1]
 
 ---
 
-### 🔹 StepFlow Multi-Step Form Engine  
-🔗 https://github.com/khairozzaman91/StepFlow  
-
-A reusable multi-step form system with validation and progress tracking.  
-Designed to improve form UX with smooth user flow and modular structure.
-
-**Technologies:** React.js, JavaScript, Framer Motion, CSS  
+## 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=khairozzaman91&show_icons=true&theme=radial" alt="Khairozzaman's GitHub Stats" />
+</p>
 
 ---
 
-### 🔹 Thesis & Internship Management System  
-🔗 https://github.com/khairozzaman91/thesisprojectmanagement  
-
-A complete academic management platform for thesis and internship workflows.  
-Handles student applications, supervisor approval, and project lifecycle tracking.
-
-**Technologies:** Flutter, Dart, Supabase, PostgreSQL  
+## 📫 Connect With Me
+- 💼 **LinkedIn:** [linkedin.com/in/md-khairozzaman-187048298](https://linkedin.com/in/md-khairozzaman-187048298)[cite: 1]
+- 📧 **Email:** khairozzaman91@gmail.com[cite: 1]
 
 ---
-
-### 🔹 FuelGuard System  
-🔗 https://github.com/khairozzaman91/FuelGuard  
-
-A fuel tracking and management system for monitoring fuel usage and records.  
-Built with structured logic for data handling and system workflow management.
-
-**Technologies:** (add your actual stack here if different)
-
----
-
-### 🔹 AI-Based Traffic Monitoring System  
-🔗 https://github.com/khairozzaman91/aiTrafficproject  
-
-A computer vision project for real-time vehicle detection and traffic analysis.  
-Uses deep learning-based object detection for identifying vehicles.
-
-**Technologies:** Python, OpenCV, YOLOv3  
----
-
-## 🎯 Problem Solving
-- HackerRank: https://hackerrank.com/khairozzaman91  
-- CodeChef: https://codechef.com/users/error91  
-- Codeforces: https://codeforces.com/profile/yourprofile  
-
----
-
-## 📫 Connect
-- LinkedIn: https://linkedin.com/in/md-khairozzaman-187048298  
-- GitHub: https://github.com/khairozzaman91  
-
----
-
-⭐ Thanks for visiting!
+⭐️ *Thanks for visiting my profile! Feel free to explore my repositories.*
