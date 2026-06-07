@@ -1,18 +1,19 @@
 # Hi there, I'm Khairozzaman 👋
 💻 Software Developer | Backend & Mobile Enthusiast
 📍 Dhaka, Bangladesh
+🚀 [LeetCode](https://leetcode.com/u/khairozzaman_error/) | 🏆 [HackerRank](https://hackerrank.com/khairozzaman91) | 🎯 [CodeChef](https://codechef.com/users/error91) | 📊 [Codeforces](https://codeforces.com/profile/yourprofile)
 
 ---
 
 ## 👨‍💻 About Me
-I am a Computer Science graduate passionate about building clean, efficient, and scalable software solutions. My primary focus is on **Backend Development** and **Cross-Platform Mobile Applications** using modern technologies. I love tackling complex technical challenges, optimization, and continuous learning.
+I am a Computer Science graduate passionate about building clean, efficient, and scalable software solutions[cite: 1]. My primary focus is on **Backend Development** and **Cross-Platform Mobile Applications** using modern technologies[cite: 1]. I love tackling complex technical challenges, optimization, and continuous learning[cite: 1].
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 💻 Programming Languages
-- **Go (Golang)** — *Main Backend Focus*
+- **Go (Golang)** — *Main Backend Focus*[cite: 1]
 - JavaScript / TypeScript (Basic)[cite: 1]
 - Dart[cite: 1]
 - C++ / Java / Python[cite: 1]
@@ -83,16 +84,6 @@ A modular, reusable multi-step form system with built-in validation and progress
 
 A computer vision academic project for real-time vehicle detection and traffic flow analysis[cite: 1].
 - **Technologies:** Python, OpenCV, YOLOv3[cite: 1]
-
----
-
-## 🎯 Problem Solving & Badges
-I actively solve problems to strengthen my Data Structures & Algorithms (DSA) skills[cite: 1]:
-
-- 🚀 **LeetCode:** [leetcode.com/u/khairozzaman_error](https://leetcode.com/u/khairozzaman_error/)[cite: 1]
-- 🏆 **HackerRank:** [hackerrank.com/khairozzaman91](https://hackerrank.com/khairozzaman91) *(Go Certified)*[cite: 1]
-- 🎯 **CodeChef:** [codechef.com/users/error91](https://codechef.com/users/error91)[cite: 1]
-- 📊 **Codeforces:** [codeforces.com/profile/yourprofile](https://codeforces.com/profile/yourprofile)[cite: 1]
 
 ---
 
