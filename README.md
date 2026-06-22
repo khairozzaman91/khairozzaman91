@@ -1,103 +1,202 @@
 # Hi there, I'm Khairozzaman 👋
-💻 Software Developer | Backend & Mobile Enthusiast
-📍 Dhaka, Bangladesh
-## 
-🚀 [LeetCode](https://leetcode.com/u/khairozzaman_error/) | 🏆 [HackerRank](https://hackerrank.com/khairozzaman91) | 🎯 [CodeChef](https://codechef.com/users/error91) | 📊 [Codeforces](https://codeforces.com/profile/yourprofile)
+
+💻 **Golang Backend Developer**
+📍 **Dhaka, Bangladesh**
+
+🚀 [LeetCode](https://leetcode.com/u/khairozzaman_error/) | 🏆 [HackerRank](https://hackerrank.com/khairozzaman91) | 🎯 [CodeChef](https://codechef.com/users/error91) | 📊 [Codeforces](https://codeforces.com/profile/Error-gub)
 
 ---
 
 ## 👨‍💻 About Me
-I am a Computer Science graduate passionate about building clean, efficient, and scalable software solutions. My primary focus is on **Backend Development** and **Cross-Platform Mobile Applications** using modern technologies. I love tackling complex technical challenges, optimization, and continuous learning.
+
+Computer Science graduate and Golang Backend Developer with experience building scalable REST APIs, database-driven applications, and backend systems using Go and PostgreSQL.
+
+I enjoy working with backend architecture, database design, authentication systems, and performance optimization. My goal is to build reliable, maintainable, and production-ready software solutions.
+
+---
+
+## 🎯 Current Focus
+
+* Building scalable backend systems using Go (Golang)
+* Mastering PostgreSQL and database optimization
+* Learning System Design & Distributed Systems
+* Solving DSA problems regularly
+* Exploring AI & Computer Vision applications
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Programming Languages
-- **Go (Golang)** — *Main Backend Focus*
-- JavaScript / TypeScript (Basic)
-- Dart
-- C++ / Java / Python
+### ⚙️ Backend Development
 
-### 🌐 Frontend & Mobile Development
-- Flutter
-- React.js / Next.js (Basic)
-- Tailwind CSS / HTML5 / CSS3
-
-### ⚙️ Backend & Architecture
-- REST APIs / Middleware / Authentication (JWT & HMAC)
-- Clean Architecture / System Design
+* Go (Golang)
+* REST APIs
+* Middleware
+* JWT Authentication
+* Clean Architecture
+* Repository Pattern
 
 ### 🗄 Databases
-- PostgreSQL
-- Supabase
-- MySQL / SQLite
 
-### 🤖 AI & Computer Vision
-- Computer Vision (OpenCV)
-- Object Detection (YOLOv3)
+* PostgreSQL
+* MySQL
+* SQLite
+* Supabase
 
-### 🧰 Tools
-- Git & GitHub
-- Linux Basics / Bash
-- Postman / VS Code / Figma
+### 🌐 Frontend & Mobile
+
+* Flutter
+* React.js
+* Next.js (Basic)
+* Tailwind CSS
+* HTML5 / CSS3
+
+### 💻 Programming Languages
+
+* Go
+* C++
+* Java
+* JavaScript
+* Dart
+* Python
+
+### 🧰 Tools & Technologies
+
+* Git & GitHub
+* Linux Basics
+* Postman
+* VS Code
+* Figma
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🔹 Thesis & Internship Management System
-🔗 [GitHub Repository](https://github.com/khairozzaman91/thesisprojectmanagement)
+## 🔹 CommerceCore E-commerce REST API
 
-A complete academic management platform handles student applications, supervisor approvals, and project lifecycle tracking.
-- **Technologies:** Flutter, Dart, Supabase, PostgreSQL
-- **Key Features:** Role-based workflow system (Student, Supervisor, Admin, Research Cell)
+A scalable backend REST API built with Go and PostgreSQL following Clean Architecture principles.
 
-### 🔹 SupplyTrack B2B Inventory System
-🔗 [GitHub Repository](https://github.com/khairozzaman91/Supply-Chain-Tracker)
+**Tech Stack:** Go, PostgreSQL, SQLx
 
-A web-based B2B inventory management system for product, vendor, and stock tracking.
-- **Technologies:** React.js, JavaScript, Tailwind CSS
-- **Key Features:** Local storage data persistence, responsive UI, and authentication flow
+### Key Features
 
-### 🔹 NexusBank Fintech Dashboard
-🔗 [GitHub Repository](https://github.com/khairozzaman91/NexusBank-Dashboard)
+* RESTful API Development
+* Repository Pattern Architecture
+* PostgreSQL Integration
+* CRUD Operations
+* Validation & Error Handling
+* Scalable Project Structure
 
-A modern financial dashboard for transaction visualization and user account data management.
-- **Technologies:** React.js, JavaScript, Recharts, Tailwind CSS
-- **Key Features:** CRUD operations, interactive graphs, and reusable UI components
+🔗 **Repository:** https://github.com/khairozzaman91
 
-### 🔹 FuelGuard System
-🔗 [GitHub Repository](https://github.com/khairozzaman91/FuelGuard)
+---
 
-A database-driven fuel tracking and management system for monitoring usage and records.
-- **Technologies:** Supabase, PostgreSQL
-- **Key Features:** Structured data handling and backend workflow management
+## 🔹 Thesis & Internship Management System
 
-### 🔹 StepFlow Multi-Step Form Engine
-🔗 [GitHub Repository](https://github.com/khairozzaman91/StepFlow)
+A complete academic management platform for handling thesis and internship workflows.
 
-A modular, reusable multi-step form system with built-in validation and progress tracking.
-- **Technologies:** React.js, JavaScript, Framer Motion, CSS
+**Tech Stack:** Flutter, Supabase, PostgreSQL
 
-### 🔹 AI-Based Traffic Monitoring System
-🔗 [GitHub Repository](https://github.com/khairozzaman91/aiTrafficproject)
+### Key Features
 
-A computer vision academic project for real-time vehicle detection and traffic flow analysis.
-- **Technologies:** Python, OpenCV, YOLOv3
+* Role-Based Access Control
+* Supervisor Approval Workflow
+* Research Cell Management
+* Project Lifecycle Tracking
+
+🔗 **Repository:** https://github.com/khairozzaman91/thesisprojectmanagement
+
+---
+
+## 🔹 SupplyTrack B2B Inventory System
+
+A web-based inventory management solution for vendor, stock, and product tracking.
+
+**Tech Stack:** React.js, JavaScript, Tailwind CSS
+
+### Key Features
+
+* Product & Vendor Management
+* Authentication Flow
+* Responsive Dashboard
+* Business Workflow Management
+
+🔗 **Repository:** https://github.com/khairozzaman91/Supply-Chain-Tracker
+
+---
+
+## 🔹 NexusBank Fintech Dashboard
+
+A modern financial dashboard for transaction visualization and account management.
+
+**Tech Stack:** React.js, Recharts, Tailwind CSS
+
+### Key Features
+
+* Financial Analytics
+* CRUD Operations
+* Interactive Graphs
+* Reusable UI Components
+
+🔗 **Repository:** https://github.com/khairozzaman91/NexusBank-Dashboard
+
+---
+
+## 🔹 FuelGuard System
+
+A database-driven fuel tracking and management platform.
+
+**Tech Stack:** Supabase, PostgreSQL
+
+### Key Features
+
+* Fuel Usage Monitoring
+* Record Management
+* Database Workflow Automation
+
+🔗 **Repository:** https://github.com/khairozzaman91/FuelGuard
+
+---
+
+## 🔹 AI-Based Traffic Monitoring System
+
+A computer vision project for real-time vehicle detection and traffic flow analysis.
+
+**Tech Stack:** Python, OpenCV, YOLOv3
+
+### Key Features
+
+* Real-Time Object Detection
+* Vehicle Tracking
+* Traffic Flow Analysis
+* Video Stream Processing
+
+🔗 **Repository:** https://github.com/khairozzaman91/aiTrafficproject
 
 ---
 
 ## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=khairozzaman91&show_icons=true&theme=radial" alt="Khairozzaman's GitHub Stats" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khairozzaman91&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khairozzaman91&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khairozzaman91&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
-- 💼 **LinkedIn:** [linkedin.com/in/md-khairozzaman-187048298](https://linkedin.com/in/md-khairozzaman-187048298)
-- 📧 **Email:** khairozzaman91@gmail.com
+
+💼 **LinkedIn:** https://linkedin.com/in/md-khairozzaman-187048298
+
+📧 **Email:** [khairozzaman91@gmail.com](mailto:khairozzaman91@gmail.com)
 
 ---
-⭐️ *Thanks for visiting my profile! Feel free to explore my repositories.*
+
+⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
