@@ -173,23 +173,6 @@ A computer vision project for real-time vehicle detection and traffic flow analy
 
 🔗 **Repository:** https://github.com/khairozzaman91/aiTrafficproject
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khairozzaman91&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khairozzaman91&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khairozzaman91&layout=compact&theme=radical" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
