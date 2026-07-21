@@ -40,7 +40,7 @@ I enjoy working on backend architecture, database design, authentication systems
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 ### 🌐 Frontend & Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -69,15 +69,6 @@ I enjoy working on backend architecture, database design, authentication systems
 ### 🔹 [AI-Based Traffic Monitoring System](https://github.com/khairozzaman91/aiTrafficproject)
 > A computer vision project for real-time vehicle detection and traffic flow analysis.
 * **Tech Stack:** Python, OpenCV, YOLOv3
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khairozzaman91&show_icons=true&theme=tokyonight&hide_border=true" alt="Khairozzaman's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khairozzaman91&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
 
 ---
 
