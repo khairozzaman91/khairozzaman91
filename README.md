@@ -1,80 +1,132 @@
-# Hi there, I'm Khairozzaman 👋
+# Hi there, I'm Md. Khairozzaman 👋
 
-💻 **Golang Backend Engineer | System Thinker**  
-📍 **Dhaka, Bangladesh**  
+💻 **Backend Developer specializing in Go (Golang)**  
+🎓 Computer Science Graduate  
+📍 Dhaka, Bangladesh
 
-🚀 [LeetCode](https://leetcode.com/u/khairozzaman_error/) | 🏆 [HackerRank](https://hackerrank.com/khairozzaman91) | 🎯 [CodeChef](https://codechef.com/users/error91) | 📊 [Codeforces](https://codeforces.com/profile/Error-gub)
-
----
-
-## 👨‍💻 About Me
-
-Computer Science graduate and **Golang Backend Engineer** with experience in building scalable REST APIs, database-driven applications, and robust backend systems using **Go** and **PostgreSQL**.
-
-I enjoy working on backend architecture, database design, authentication systems, and performance optimization. My goal is to design and build reliable, maintainable, and high-performance production-ready software solutions.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/md-khairozzaman-187048298)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:khairozzaman91@gmail.com)
 
 ---
 
-## 🎯 Current Focus
+# 👨‍💻 About Me
 
-* ⚙️ Building scalable microservices and backend systems using **Go (Golang)**
-* 🗄️ Mastering **PostgreSQL**, indexing, and query optimization
-* 🏗️ Deep diving into **System Design & Distributed Systems**
-* 🧩 Solving Data Structures & Algorithms problems regularly
-* 🔍 Exploring AI & Computer Vision applications
+I'm a Computer Science graduate passionate about building **scalable, secure, and maintainable backend systems** using **Go (Golang)**.
+
+I enjoy designing RESTful APIs, implementing secure authentication, working with relational databases, and following clean software architecture principles. My focus is on writing production-ready code that is modular, maintainable, and easy to scale.
+
+I'm continuously improving my backend engineering skills by building real-world projects and learning modern software engineering practices.
 
 ---
 
-## 🛠 Tech Stack
+# 🎯 Current Focus
 
-### ⚙️ Backend & Architecture
+- 🚀 Building scalable backend applications using **Go (Golang)**
+- 🗄️ Improving PostgreSQL performance and database design
+- 🐳 Learning Docker & Containerization
+- 🏗️ Exploring Microservices & System Design
+- 📚 Continuously learning modern backend engineering practices
+
+---
+
+# 🛠 Tech Stack
+
+### Backend
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+![SQLx](https://img.shields.io/badge/SQLx-336791?style=for-the-badge)
+![Middleware](https://img.shields.io/badge/Middleware-4CAF50?style=for-the-badge)
+
+### Database
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-008080?style=for-the-badge)
-
-### 🗄 Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![godotenv](https://img.shields.io/badge/godotenv-6DB33F?style=for-the-badge)
 
+### Frontend (Basic Knowledge)
 
-### 🌐 Frontend & Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 [CommerceCore E-commerce REST API](https://github.com/khairozzaman91)
-> A scalable backend REST API built with Go and PostgreSQL following Clean Architecture principles.
-* **Tech Stack:** Go, PostgreSQL, SQLx, JWT
-* **Key Highlights:** Clean Repository Pattern, Scalable Project Layout, Secure CRUD Operations, Validation & Error Handling.
-
-### 🔹 [Thesis & Internship Management System](https://github.com/khairozzaman91/thesisprojectmanagement)
-> A complete academic management platform for handling thesis and internship workflows.
-* **Tech Stack:** Flutter, Supabase, PostgreSQL
-* **Key Highlights:** Role-Based Access Control (RBAC), Supervisor Approval Workflow, Lifecycle Tracking.
-
-### 🔹 [SupplyTrack B2B Inventory System](https://github.com/khairozzaman91/Supply-Chain-Tracker)
-> A web-based inventory management solution for vendor, stock, and product tracking.
-* **Tech Stack:** React.js, JavaScript, Tailwind CSS
-
-### 🔹 [AI-Based Traffic Monitoring System](https://github.com/khairozzaman91/aiTrafficproject)
-> A computer vision project for real-time vehicle detection and traffic flow analysis.
-* **Tech Stack:** Python, OpenCV, YOLOv3
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css)
 
 ---
 
-## 📫 Connect With Me
+# 🚀 Featured Projects
 
-💼 **LinkedIn:** [md-khairozzaman](https://linkedin.com/in/md-khairozzaman-187048298)  
-📧 **Email:** [khairozzaman91@gmail.com](mailto:khairozzaman91@gmail.com)  
+## 🛒 CommerceCore – E-commerce Backend API
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+A scalable RESTful backend built with **Go (Golang)** following **Clean Layered Architecture** and the **Repository Pattern**.
+
+**Highlights**
+
+- JWT Authentication
+- PostgreSQL + SQLx
+- CRUD APIs
+- Custom Middleware
+- Rate Limiting
+- Production-ready Project Structure
+
+---
+
+## 💼 JobPortal Backend
+
+Backend system for a modern job portal built using Go and PostgreSQL.
+
+**Highlights**
+
+- Authentication & Authorization
+- RESTful APIs
+- Clean Architecture
+- Role-Based Access Control
+- Repository Pattern
+
+---
+
+## ⛽ FuelGuard Backend
+
+Backend service for fuel transaction and management.
+
+**Highlights**
+
+- Go + Gin
+- PostgreSQL
+- JWT Authentication
+- Middleware
+- Transaction Management
+
+---
+
+## 🎓 Thesis & Internship Management System
+
+Academic management platform built using Flutter and Supabase.
+
+**Highlights**
+
+- Approval Workflow
+- Role-Based Access Control
+- Project Lifecycle Tracking
+
+---
+
+# 📫 Connect With Me
+
+💼 LinkedIn  
+https://linkedin.com/in/md-khairozzaman-187048298
+
+📧 Email  
+khairozzaman91@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
