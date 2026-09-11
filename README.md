@@ -64,7 +64,7 @@ I'm continuously improving my backend engineering skills by building real-world 
 
 # 🚀 Featured Projects
 
-## 💼 [Job Portal Backend API](https://github.com/khairozzaman91/JobPortal-Backend) *(Currently in Development)*
+## 💼 [Job Portal Backend API](https://github.com/khairozzaman91/JobPortal-Backend) 
 
 A SaaS-ready backend application built with **Go (Golang)** for modern recruitment platforms. The system is designed using **Clean Layered Architecture** and the **Repository Pattern** to ensure scalability, maintainability, and testability. It supports role-based access control for job seekers, employers, and administrators while providing secure authentication and efficient job management workflows.
 
