@@ -4,7 +4,7 @@
 🎓 Computer Science Graduate  
 📍 Dhaka, Bangladesh
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/md-khairozzaman-187048298)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/md-khairozzaman/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:khairozzaman91@gmail.com)
 
 ---
