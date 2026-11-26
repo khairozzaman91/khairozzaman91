@@ -1,21 +1,20 @@
 # Hi there, I'm Md. Khairozzaman 👋
 
-💻 **Backend Developer specializing in Go (Golang)**  
-🎓 Computer Science Graduate  
+💻 **Go (Golang) Backend Engineer**  
+🎓 B.Sc. in Computer Science & Engineering, Green University of Bangladesh  
 📍 Dhaka, Bangladesh
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/md-khairozzaman/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:khairozzaman91@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:khairozzaman842@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00ADD8?logo=githubpages&logoColor=white)](https://khairozzaman91.github.io)
 
 ---
 
 # 👨‍💻 About Me
 
-I'm a Computer Science graduate passionate about building **scalable, secure, and maintainable backend systems** using **Go (Golang)**.
+I'm a Computer Science graduate who builds **scalable, secure, and maintainable backend systems** with **Go (Golang)** and **PostgreSQL**.
 
-I enjoy designing RESTful APIs, implementing secure authentication, working with relational databases, and following clean software architecture principles. My focus is on writing production-ready code that is modular, maintainable, and easy to scale.
-
-I'm continuously improving my backend engineering skills by building real-world projects and learning modern software engineering practices.
+I design RESTful APIs with clean layered architecture (Handler, Service, Repository), write JWT authentication from scratch, implement role-based access control, and integrate payment gateways. I focus on production-ready code that is modular, testable, and easy to extend.
 
 ---
 
@@ -23,9 +22,7 @@ I'm continuously improving my backend engineering skills by building real-world 
 
 - 🚀 Building scalable backend applications using **Go (Golang)**
 - 🗄️ Improving PostgreSQL performance and database design
-- 🐳 Learning Docker & Containerization
 - 🏗️ Exploring Microservices & System Design
-- 📚 Continuously learning modern backend engineering practices
 
 ---
 
@@ -46,39 +43,38 @@ I'm continuously improving my backend engineering skills by building real-world 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### Tools
+### DevOps & Tools
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![godotenv](https://img.shields.io/badge/godotenv-6DB33F?style=for-the-badge)
 
-### Frontend (Basic Knowledge)
+### Frontend (Working Knowledge)
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter)
 
 ---
 
 # 🚀 Featured Projects
 
-## 💼 [Job Portal Backend API](https://github.com/khairozzaman91/JobPortal-Backend) 
+## 💼 [SaaS Job Portal Backend](https://github.com/khairozzaman91/JobPortal-Backend)
 
-A SaaS-ready backend application built with **Go (Golang)** for modern recruitment platforms. The system is designed using **Clean Layered Architecture** and the **Repository Pattern** to ensure scalability, maintainability, and testability. It supports role-based access control for job seekers, employers, and administrators while providing secure authentication and efficient job management workflows.
+A multi-role SaaS backend for recruitment platforms, built with **Go**, **PostgreSQL** and **SQLx** using Clean Layered Architecture (Handler, Service, Repository).
 
-### What I'm Building
-- JWT Authentication & Authorization
-- Employer & Job Seeker Management
-- Job Posting & Application System
-- Resume Management
-- Role-Based Access Control (RBAC)
+### Key Features
+- Custom JWT authentication from scratch (Base64URL + HMAC-SHA256, signature and expiry validation)
+- RBAC for Admin, Employer and Job Seeker with bcrypt hashing and resource ownership checks
+- Job Posting & Application System, Resume Management
 - Search, Filtering & Pagination
-- Custom HTTP Middleware
-- Environment Configuration
-- Clean Layered Architecture
-- Repository Pattern
+- Subscription plans with monthly job posting limits
+- Middleware: rate limiting, CORS, logging, centralized error handling
+- SSLCommerz sandbox payments: transaction tracking, verification and IPN handling
 
 **Tech Stack:** Go • PostgreSQL • SQLx • JWT • REST API
 
@@ -86,19 +82,14 @@ A SaaS-ready backend application built with **Go (Golang)** for modern recruitme
 
 ## 🛒 [CommerceCore – E-commerce REST API](https://github.com/khairozzaman91/CommerceCore)
 
-A production-ready RESTful backend API developed entirely in **Go (Golang)**. The project follows **Clean Layered Architecture** with the **Repository Pattern**, providing secure authentication, efficient database operations, and scalable API development suitable for real-world e-commerce systems.
+An e-commerce REST API in **Go** following Handler-Service-Repository architecture and the Repository Pattern.
 
 ### Key Features
-- Secure User Registration & Login
-- JWT Authentication & Authorization
-- Product Management (CRUD)
-- PostgreSQL Integration using SQLx
-- Password Hashing with bcrypt
-- Custom HTTP Middleware Pipeline
-- Rate Limiting
-- Panic Recovery Middleware
-- Input Validation & Error Handling
-- Modular Project Structure
+- User Registration & Login with JWT and bcrypt password hashing
+- RBAC-protected Product Management (CRUD) with server-side pagination
+- IP-based Rate Limiting and Panic Recovery Middleware
+- Input Validation & Centralized Error Handling
+- SQL Migrations and PostgreSQL connection pooling
 
 **Tech Stack:** Go • PostgreSQL • SQLx • JWT • REST API
 
@@ -106,20 +97,13 @@ A production-ready RESTful backend API developed entirely in **Go (Golang)**. Th
 
 ## 📌 [404 Project Not Found](https://github.com/khairozzaman91/404-project-not-found)
 
-A full-stack Task Management and Medical Image Annotation platform developed using **React, TypeScript, Django, and SQLite**. The application combines a Kanban-based task management system with an interactive image annotation module, demonstrating frontend-backend integration, state management, and REST API development.
+A full-stack Task Management and Medical Image Annotation platform built with **React, TypeScript, Django REST Framework and SQLite**, deployed on Vercel and PythonAnywhere.
 
 ### Key Features
-- Secure Authentication System
-- Kanban Task Management
-- Create, Update & Delete Tasks
-- Drag & Drop Functionality
-- Date-based Task Filtering
-- Image Upload & Gallery
-- Polygon Annotation using React Konva
-- Annotation Persistence
-- Zoom & Navigation Controls
+- Kanban Task Management with Drag & Drop and Date-based Filtering
+- Polygon Annotation using React Konva with Zoom & Navigation
+- Image Upload, Gallery and Annotation Persistence
 - Django REST API Integration
-- Backend Synchronization
 
 **Tech Stack:** React • TypeScript • Django • SQLite
 
@@ -127,18 +111,12 @@ A full-stack Task Management and Medical Image Annotation platform developed usi
 
 ## 🎓 [Thesis Project & Internship Management System](https://github.com/khairozzaman91/thesisprojectmanagement)
 
-A comprehensive academic management platform built using **Flutter** and **Supabase** to streamline thesis and internship workflows. The system digitizes the complete project lifecycle from student application to supervisor evaluation through a structured multi-level approval process.
+An academic management platform built with **Flutter** and **Supabase** that digitizes the thesis and internship lifecycle, from student application to final grading.
 
 ### Key Features
-- Student Registration & Authentication
-- Thesis & Internship Applications
-- Team Management
 - Multi-Level Approval Workflow
-- Supervisor Dashboard
-- Research Cell Dashboard
-- Admin Dashboard
-- Project Progress Tracking
-- Final Evaluation & Grading
+- Student, Supervisor, Research Cell and Admin Dashboards
+- Team Management and Project Progress Tracking
 - Role-Based Access Control (RBAC)
 
 **Tech Stack:** Flutter • Supabase • PostgreSQL
@@ -147,18 +125,13 @@ A comprehensive academic management platform built using **Flutter** and **Supab
 
 ## 🚗 [AI-Based Traffic Monitoring System](https://github.com/khairozzaman91/AI-Traffic-Monitoring-project)
 
-An intelligent traffic monitoring system developed as an undergraduate research project using **YOLOv3**, **OpenCV**, and **Python**. The system performs real-time vehicle detection, tracking, speed estimation, and traffic analytics to support smart transportation and road safety initiatives.
+An undergraduate research project using **YOLOv3**, **OpenCV** and **Python** for real-time traffic analytics.
 
 ### Key Features
-- Real-Time Vehicle Detection
-- Multiple Object Tracking
-- Vehicle Speed Estimation
-- Traffic Density Analysis
-- Vehicle Counting
-- Traffic Flow Monitoring
-- Alert Generation
-- Computer Vision Pipeline
-- Deep Learning-based Object Detection
+- Real-Time Vehicle Detection and Multiple Object Tracking
+- Vehicle Speed Estimation, Traffic Density Analysis and Vehicle Counting
+- Automated Speeding and Congestion Alerts
+- 86% detection accuracy on a test set of 326 images/videos
 
 **Tech Stack:** Python • OpenCV • YOLOv3 • TensorFlow
 
@@ -166,11 +139,9 @@ An intelligent traffic monitoring system developed as an undergraduate research 
 
 # 📫 Connect With Me
 
-💼 LinkedIn  
-https://linkedin.com/in/md-khairozzaman-187048298
-
-📧 Email  
-khairozzaman91@gmail.com
+💼 LinkedIn: [md-khairozzaman](https://www.linkedin.com/in/md-khairozzaman/)  
+📧 Email: khairozzaman842@gmail.com  
+🌐 Portfolio: [khairozzaman91.github.io](https://khairozzaman91.github.io)
 
 ---
 
